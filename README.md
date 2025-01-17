@@ -7,9 +7,9 @@ Push_swap is an algorithm that sorts a stack of integers in ascending order usin
 
 ### **Features**  
 - Implementation of the Turkish algorithm for stacks containing more than 3 integers:
-  -> First, push the top two numbers onto the stack.
-  -> Then, push the remaining numbers in descending order, using the minimum number of moves. 
-  -> Ensure that the minimum or maximum number is placed at the top when necessary.
+  <br>-> First, push the top two numbers onto the stack.
+  <br>-> Then, push the remaining numbers in descending order, using the minimum number of moves. 
+ <br> -> Ensure that the minimum or maximum number is placed at the top when necessary.
 -  For stacks containing less than 4 integers:
   -> there are five case which are handled manually
 
