@@ -11,7 +11,7 @@ Push_swap is an algorithm that sorts a stack of integers in ascending order usin
   <br>-> Then, push the remaining numbers in descending order, using the minimum number of moves. 
  <br> -> Ensure that the minimum or maximum number is placed at the top when necessary.
 -  For stacks containing less than 4 integers:
-  -> there are five case which are handled manually
+ <br> -> there are five case which are handled manually
 
 ---
 
