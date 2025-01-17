@@ -30,5 +30,5 @@ Push_swap is a program that sorts a stack of integers in ascending order using a
    ```bash
    ./push_swap [arguments]
 4. Examples:
-  ```bash
-        ./push_swap 2 1 3 6 5 8     
+```bash
+./push_swap 2 1 3 6 5 8     
