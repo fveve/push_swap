@@ -1,7 +1,7 @@
 # **Push_swap**
 
 ### **Description**  
-Push_swap is an algorithm that sorts a stack of integers in ascending order using an empty stack
+Push_swap is a program that sorts a stack of integers in ascending order using an empty stack
 
 ---
 
